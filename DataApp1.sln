@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataApp1", "DataApp1.csproj", "{1C946182-4EA7-4200-ADA1-0D32C06CBDD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataApp2", "..\DataApp2\DataApp2.csproj", "{0F693B25-F6F5-448B-A490-D537984714F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataApp3", "..\DataApp3\DataApp3.csproj", "{DE7142DF-345D-4DB5-990C-A095D1234289}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C946182-4EA7-4200-ADA1-0D32C06CBDD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C946182-4EA7-4200-ADA1-0D32C06CBDD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C946182-4EA7-4200-ADA1-0D32C06CBDD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C946182-4EA7-4200-ADA1-0D32C06CBDD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F693B25-F6F5-448B-A490-D537984714F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F693B25-F6F5-448B-A490-D537984714F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F693B25-F6F5-448B-A490-D537984714F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F693B25-F6F5-448B-A490-D537984714F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE7142DF-345D-4DB5-990C-A095D1234289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE7142DF-345D-4DB5-990C-A095D1234289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE7142DF-345D-4DB5-990C-A095D1234289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE7142DF-345D-4DB5-990C-A095D1234289}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {802CFA15-7BAB-450B-9F4A-413768F357B4}
+	EndGlobalSection
+EndGlobal
